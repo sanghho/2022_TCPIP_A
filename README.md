@@ -11,5 +11,5 @@
 </p>
 
 <p>
-  <img src="/final/img/thread1"  width="700" height="370">
+  <img src="/final/img/thread1.png"  width="700" height="370">
 </p>
