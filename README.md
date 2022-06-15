@@ -10,5 +10,5 @@
 </p>
 
 <p>
-  <img src="/final/img/thread1.png"  width="700" height="370">
+  <img src="https://firebasestorage.googleapis.com/v0/b/my-project-821cf.appspot.com/o/chat_clint1_img.png?alt=media&token=21869763-4eec-45fc-a6e1-a21042966518"  width="700" height="370">
 </p>
