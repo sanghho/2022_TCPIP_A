@@ -10,5 +10,5 @@
 </p>
 
 <p>
-  [<img src="https://firebasestorage.googleapis.com/v0/b/my-project-821cf.appspot.com/o/chat_clint1_img.png?alt=media&token=21869763-4eec-45fc-a6e1-a21042966518"  width="50%" height="50%">](https://firebasestorage.googleapis.com/v0/b/my-project-821cf.appspot.com/o/chat_clint1_img.png?alt=media&token=21869763-4eec-45fc-a6e1-a21042966518)
+ <img width="1283" alt="chat_clint1_img" src="https://user-images.githubusercontent.com/103195843/173830260-50b051ea-9110-4348-98a3-dfa3ec32a260.png">
 </p>
