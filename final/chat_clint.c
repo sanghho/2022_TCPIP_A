@@ -39,15 +39,18 @@ int main(int argc, char *argv[])
 
 	if(connect(sock, (struct sockaddr*)&serv_adr, sizeof(serv_adr))==-1)
 		error_handling("connect() error");
-
+	
+	// 2개의 쓰레드 생성, send/recv를 위한 클라이언트
 	pthread_create(&snd_thread, NULL, send_msg, (void*)&sock);
 	pthread_create(&rcv_thread, NULL, recv_msg, (void*)&sock);
+
 	pthread_join(snd_thread, &thread_return);
 	pthread_join(rcv_thread, &thread_return);
 	close(sock);
 	return 0;
 }
 
+// 데이터를 보내는 기능
 void * send_msg(void * arg)
 {
 	int sock=*((int*)arg);
@@ -66,6 +69,7 @@ void * send_msg(void * arg)
 	return NULL;
 }
 
+// 데이터를 읽어서 출력하는 기능
 void * recv_msg(void * arg)
 {
 	int sock=*((int*)arg);
