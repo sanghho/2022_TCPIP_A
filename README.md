@@ -16,7 +16,9 @@
 
 ### 실행 화면
 <p> 쓰레드 실습 1 </p>
+<p>
   <img width="1270" alt="thread1_img" src="https://user-images.githubusercontent.com/103195843/173831253-a089d898-14b3-4936-a7bf-4f9156e5858a.png">
+</p>
 
 <p> 쓰레드 실습 2 </p>
 <p>
