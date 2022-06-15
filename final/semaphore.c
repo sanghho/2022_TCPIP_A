@@ -30,6 +30,7 @@
 // read 1번 수행하고 대기하고, accu 1번 수행하고 대기하고.. 번갈아 반복 수행한다.
 
 #include <stdio.h>
+#include <stdlib.h>
 #include <pthread.h>
 #include <semaphore.h>
 
