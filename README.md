@@ -16,16 +16,14 @@
 
 ### 실행 화면
 <p> 쓰레드 실습 1 </p>
-<p>
   <img width="1270" alt="thread1_img" src="https://user-images.githubusercontent.com/103195843/173831253-a089d898-14b3-4936-a7bf-4f9156e5858a.png">
-</p>
 
-##### 쓰레드 실습 2
+<p> 쓰레드 실습 2 </p>
 <p>
   <img width="1270" alt="thread2_img" src="https://user-images.githubusercontent.com/103195843/173831265-b027ec2e-3501-4c23-900e-0f8965a2d012.png">
 </p>
 
-##### 멀티쓰레딩 채팅 서버-클라이언트
+<p> 멀티쓰레딩 채팅 서버-클라이언트 </p>
 <p>
   <img width="1226" alt="chat_serv_img " src="https://user-images.githubusercontent.com/103195843/173831275-18309386-c122-4b8f-89c6-f9c384bae246.png">
 </p>
