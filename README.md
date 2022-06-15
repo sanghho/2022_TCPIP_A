@@ -9,3 +9,7 @@
 <p>
   final/img 폴더 - 실행결과 화면 이미지
 </p>
+
+<p>
+  <img src="/final/img/thread1"  width="700" height="370">
+</p>
